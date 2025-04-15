@@ -214,8 +214,7 @@ Connect with me:
 
 ### 📊 GitHub Stats
 
-[![Prashanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashanthktgowda&show_icons=true&theme=radical&rank_icon=github)](https://github.com/prashanthktgowda/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthktgowda&layout=compact&theme=radical)](https://github.com/prashanthktgowda/github-readme-stats)
-
+![Prashanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=prashanthktgowda&show_icons=true&theme=radical&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthktgowda&layout=compact&theme=radical)
 
 </div>
